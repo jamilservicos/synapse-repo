@@ -11,7 +11,7 @@
 		<disclaimer />
         <platform>all</platform>
     </extension>
-</addon><addon id="plugin.video.nymph" name="Nymph" provider-name="Julio Jamil" version="0.0.7">
+</addon><addon id="plugin.video.nymph" name="Nymph" provider-name="Julio Jamil" version="0.0.8">
 <requires>
 <import addon="xbmc.python" version="2.24.0" />
 <import addon="script.module.urlresolver" version="1.0.0" />
