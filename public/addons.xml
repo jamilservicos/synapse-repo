@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <addons><addon id="repository.synapse" name="Synapse Repository" provider-name="Julio Jamil" version="0.0.6">
 	<extension name="Synapse Add-ons Repository" point="xbmc.addon.repository">
-		<info compressed="false">https://raw.github.com/jamilservicos/synapse-repo/master/addons.xml</info>
-		<checksum>https://raw.github.com/jamilservicos/synapse-repo/master/addons.xml.md5</checksum>
-                <datadir zip="true">https://raw.github.com/jamilservicos/synapse-repo/master</datadir>
+		<info compressed="false">https://raw.github.com/jamilservicos/synapse-repo/master/public/addons.xml</info>
+		<checksum>https://raw.github.com/jamilservicos/synapse-repo/master/public/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.github.com/jamilservicos/synapse-repo/master/public</datadir>
 	</extension>
     <extension point="xbmc.addon.metadata">
         <summary>Synapse Add-ons Repository</summary>
