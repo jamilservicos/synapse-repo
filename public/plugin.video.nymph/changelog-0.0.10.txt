@@ -1,0 +1,20 @@
+Versão 0.0.7 - (23/05/2016)
+* modulo requires
+
+Versão 0.0.6 - (22/05/2016)
+* modulo anitube fix
+
+Versão 0.0.5 - (20/05/2016)
+* modulo teste
+
+Versão 0.0.4 - (20/05/2016)
+* modulo teste
+
+Versão 0.0.3 - (20/05/2016)
+* modulo teste
+
+Versão 0.0.2 - (07/05/2016)
+* Menu teste
+
+Versão 0.0.1 - (07/05/2016)
+* Primeiro release do addon
