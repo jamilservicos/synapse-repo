@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.synapse" name="Synapse Repository" version="0.0.6" provider-name="Julio Jamil">
+<addon id="repository.synapse" name="Synapse Repository" version="0.0.7" provider-name="Julio Jamil">
 	<extension point="xbmc.addon.repository" name="Synapse Add-ons Repository">
 		<info compressed="false">https://raw.github.com/jamilservicos/synapse-repo/master/public/addons.xml</info>
 		<checksum>https://raw.github.com/jamilservicos/synapse-repo/master/public/addons.xml.md5</checksum>
